@@ -1,0 +1,10 @@
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.csprojAssemblyReference.cache
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.frmServidor.resources
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.Properties.Resources.resources
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.csproj.GenerateResource.cache
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.csproj.CoreCompileInputs.cache
+C:\_Dev\ChatServidor\ChatServidor\bin\Debug\ChatServidor.exe.config
+C:\_Dev\ChatServidor\ChatServidor\bin\Debug\ChatServidor.exe
+C:\_Dev\ChatServidor\ChatServidor\bin\Debug\ChatServidor.pdb
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.exe
+C:\_Dev\ChatServidor\ChatServidor\obj\Debug\ChatServidor.pdb
