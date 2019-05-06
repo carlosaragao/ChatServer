@@ -66,14 +66,14 @@
             // 
             // btnAtender
             // 
-            this.btnAtender.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnAtender.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnAtender.BackgroundImage = global::ChatServidor.Properties.Resources.inicatendimento32002W;
             this.btnAtender.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnAtender.CausesValidation = false;
             this.btnAtender.FlatAppearance.BorderColor = System.Drawing.SystemColors.HotTrack;
             this.btnAtender.FlatAppearance.BorderSize = 0;
-            this.btnAtender.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.Highlight;
-            this.btnAtender.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnAtender.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnAtender.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.Highlight;
             this.btnAtender.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAtender.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
             this.btnAtender.Location = new System.Drawing.Point(348, 10);
